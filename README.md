@@ -12,7 +12,7 @@
 - 📫 How to reach me: **kleearchitecture@gmail.com**
 
 
-<h3>Public side projects</h3>
+<h3>Side projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
