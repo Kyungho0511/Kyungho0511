@@ -3,13 +3,36 @@
 
 - 🏢 I'm currently working at [KPFui](https://ui.kpf.com/)
 
-- 👨‍💻 Check out my side project: [**Street Teller**](https://siteteller.netlify.app/) ([repository](https://github.com/Kyungho0511/street_teller))
-
 - 📚 All of my projects are available at [**Klee Portfolio**](https://indd.adobe.com/view/eb631fc1-45b6-4d8d-ba2a-743f43fbd560)
 
 - 📄 Know about my experiences: [**Resume**](https://indd.adobe.com/view/fd0ed14f-da20-4638-aacd-cc65bed15ceb)
 
-- 📫 How to reach me: kleearchitecture@gmail.com
+- 🖥️ Connect with me on [**LinkedIn**](https://www.linkedin.com/in/klee-arch/)
+
+- 📫 How to reach me: **kleearchitecture@gmail.com**
+
+
+<h3>Public side projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://siteteller.netlify.app/"><b>Street Teller</b></a> <a href="https://github.com/Kyungho0511/street_teller">(repository)</a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Kyungho0511/street_teller?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Kyungho0511/street_teller?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Kyungho0511/street_teller?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Kyungho0511/street_teller?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 <h3 align="left">Tech Stack</h3>
 <p align="left"> 
@@ -18,7 +41,7 @@
 </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-</a>
+</a> 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -71,14 +94,3 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
 </a>
-
-<h3 align="left">Where to find me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/klee-arch" target="_blank" rel="noopener noreferrer">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="klee-arch" height="30" width="40" />
-</a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyungho0511&show_icons=true&locale=en&layout=compact" alt="kyungho0511" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kyungho0511&show_icons=true&locale=en" alt="kyungho0511" /></p>
