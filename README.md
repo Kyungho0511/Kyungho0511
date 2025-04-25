@@ -35,8 +35,6 @@
 
 <h3 align="left">My tech stack</h3>
 <p>
-<a href="" target="_blank" rel="noreferrer"></a>
-
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img alt="DotNet" src="https://img.shields.io/badge/-DotNet-512BD4?style=flat-square&logo=dotnet&logoColor=white" /></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp#:~:text=C%23%20is%20a%20modern%2C%20innovative,5%20programming%20languages%20on%20GitHub." target="_blank" rel="noreferrer"><img alt="C#" src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /></a>
@@ -59,7 +57,6 @@
 <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer"> <img alt="geopandas" src="https://img.shields.io/badge/-GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img alt="scikitlearn" src="https://img.shields.io/badge/-scikit learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
-
 </p>
 
 <h3 align="left">My design & analysis tools</h3>
