@@ -24,11 +24,18 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://siteteller.netlify.app/"><b>Street Teller</b></a> <a href="https://github.com/Kyungho0511/street_teller">(repository)</a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Kyungho0511/street_teller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/w/kyungho0511/street_teller?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Kyungho0511/street_teller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Kyungho0511/street_teller?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Kyungho0511/street_teller_frontend"><b>Street Teller Frontend</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Kyungho0511/street_teller_frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/w/kyungho0511/street_teller_frontend?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Kyungho0511/street_teller_frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Kyungho0511/street_teller_frontend?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Kyungho0511/street_teller_backend"><b>Street Teller Backend</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Kyungho0511/street_teller_backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/w/kyungho0511/street_teller_backend?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Kyungho0511/street_teller_backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Kyungho0511/street_teller_backend?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
