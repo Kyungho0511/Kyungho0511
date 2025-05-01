@@ -69,7 +69,6 @@
 <h3 align="left">My design & analysis tools</h3>
 <p>
 <a href="https://qgis.org/" target="_blank" rel="noreferrer"><img alt="qgis" src="https://img.shields.io/badge/-Qgis-589632?style=flat-square&logo=qgis&logoColor=white" /></a>
-<a href="https://www.esri.com/en-us/arcgis/geospatial-platform/overview" target="_blank" rel="noreferrer"><img alt="arcgis" src="https://img.shields.io/badge/-Arcgis-2C7AC3?style=flat-square&logo=arcgis&logoColor=white" /></a>
 <a href="https://www.rhino3d.com/" target="_blank" rel="noreferrer"><img alt="Rhinoceros" src="https://img.shields.io/badge/-Rhino3D-333333?style=flat-square&logo=rhinoceros&logoColor=white" /></a>
 <a href="https://www.grasshopper3d.com/" target="_blank" rel="noreferrer"><img alt="Grasshopper" src="https://img.shields.io/badge/-Grasshopper-73BA25?style=flat-square" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img alt="Blender" src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" /></a>
