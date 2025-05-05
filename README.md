@@ -3,9 +3,9 @@
 
 - 🏢 I'm currently working at [KPFui](https://ui.kpf.com/)
 
-- 📚 All of my projects are available at [**Klee Portfolio**](https://indd.adobe.com/view/eb631fc1-45b6-4d8d-ba2a-743f43fbd560)
+- 📚 All of my projects are available at [**Klee Portfolio**](https://indd.adobe.com/view/a97b13db-9d12-47b6-a0e7-789b02d43585)
 
-- 📄 Know about my experiences: [**Resume**](https://indd.adobe.com/view/fd0ed14f-da20-4638-aacd-cc65bed15ceb)
+- 📄 Know about my experiences: [**Resume**](https://indd.adobe.com/view/54b5df40-4368-4f16-a32b-0d6b7d80cea9)
 
 - 🖥️ Connect with me on [**LinkedIn**](https://www.linkedin.com/in/klee-arch/)
 
