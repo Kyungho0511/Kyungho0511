@@ -51,7 +51,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></a>
   <a href="https://postcss.org/" target="_blank" rel="noreferrer"><img alt="PostCSS" src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white" /></a>
   <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"><img alt="pinia" src="https://img.shields.io/badge/-Pinia-F0D330?style=flat-square" /></a>
-  <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square" /></a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-333333?style=flat-square&logo=threedotjs&logoColor=white" /></a>
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3&logoColor=white" /></a>
   <a href="https://developers.google.com/maps" target="_blank" rel="noreferrer"><img alt="GoogleMaps" src="https://img.shields.io/badge/-Google Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" /></a>
@@ -66,6 +65,8 @@
   <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer"> <img alt="geopandas" src="https://img.shields.io/badge/-GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white" /></a>
   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img alt="scikitlearn" src="https://img.shields.io/badge/-scikit learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /></a>
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" /></a>
 </p>
 
 <h3 align="left">My design & analysis tools</h3>
