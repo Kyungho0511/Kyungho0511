@@ -1,5 +1,5 @@
 <h1 align="left">Kyungho (Klee) Lee</h1>
-<h3 align="left">👋 Hello, I'm a Design Technologist specializing in Geospatial Applications</h3>
+<h3 align="left">👋 Hello, I'm a Design Technologist specializing in AEC</h3>
 
 - 🏢 I'm currently working at [KPFui](https://ui.kpf.com/)
 
